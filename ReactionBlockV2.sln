@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31911.196
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReactionBlockV2", "ReactionBlockV2\ReactionBlockV2.csproj", "{1D4D899C-FC5F-4251-BD68-86A5239F87AD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1D4D899C-FC5F-4251-BD68-86A5239F87AD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1D4D899C-FC5F-4251-BD68-86A5239F87AD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1D4D899C-FC5F-4251-BD68-86A5239F87AD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1D4D899C-FC5F-4251-BD68-86A5239F87AD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8DC577F9-6549-4EF4-BA3E-3607B5947BA3}
+	EndGlobalSection
+EndGlobal
